@@ -14,4 +14,4 @@ This repository is designed to offer a comprehensive suite of Jupyter notebooks 
 2. Install Jupyter Notebook or Jupyter Lab to interact with the notebooks.
 3. Ensure all dependencies are installed:
    *pip install pandas numpy yfinance pandas_datareader talib*
-4. Select the version of the engine that most fits your needs, select a time range and the stock(s) to baktest.
+4. Select the version of the engine that most fits your needs, select a time range and the stock(s) to backtest.
