@@ -1,4 +1,4 @@
-# Backtesting Engine Repository
+# Backtesting Engine
 ## Overview
 This repository is designed to offer a comprehensive suite of Jupyter notebooks for backtesting financial trading strategies by simulating their performance on historical data. There are several versions of the backtesting engine with different approaches, allowing to explore everything from basic single-stock analyses to advanced portfolio strategies.
 
