@@ -9,6 +9,9 @@ This repository is designed to offer a comprehensive suite of Jupyter notebooks 
  - *Backtesting Engine v2.ipynb*: Expands to multiple stock analysis, refining data handling and integrating complex strategy testing across a diversified portfolio.
  - *MACD Backtest.ipynb*: Implements the MACD indicator for technical analysis to generate trading signals, and applys the backtesting engine to test its performance over 2 years.
 
+## Example
+![image](https://github.com/AndresMireles/BacktestingEngine/assets/64489886/82605970-b3b6-4778-8618-5d1358d75068)
+
 ## Getting Started
 1. Clone or download this repository to your local system.
 2. Install Jupyter Notebook or Jupyter Lab to interact with the notebooks.
