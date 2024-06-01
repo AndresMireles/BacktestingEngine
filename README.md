@@ -10,7 +10,7 @@ This repository is designed to offer a comprehensive suite of Jupyter notebooks 
  - *MACD Backtest.ipynb*: Implements the MACD indicator for technical analysis to generate trading signals, and applys the backtesting engine to test its performance over 2 years.
 
 ## Example
-![image](https://github.com/AndresMireles/BacktestingEngine/assets/64489886/82605970-b3b6-4778-8618-5d1358d75068)
+![Results MACD](https://github.com/AndresMireles/BacktestingEngine/assets/64489886/4c2013c0-b8e7-44d5-a1ce-61075a59b182)
 
 ## Getting Started
 1. Clone or download this repository to your local system.
